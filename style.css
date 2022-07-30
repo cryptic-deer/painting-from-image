@@ -1,0 +1,25 @@
+body {
+	padding: 0;
+	margin: 0;
+	width: 100vw;
+	height: 100vh;
+	color: #f1f1f1;
+
+	background-color: #f1f1f1;
+}
+.instruction {
+	position: fixed;
+	top: -25px;
+	width: 100vw;
+	display: flex;
+	justify-content: center;
+
+	z-index: 999;
+}
+h2 {
+	background-color: #313131;
+	padding: 5px 25px;
+	border-radius: 5px;
+	font-family: "Montserrat", sans-serif;
+	letter-spacing: 1px;
+}
