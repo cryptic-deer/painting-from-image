@@ -1,12 +1,15 @@
-# Hyperdrive
+# Image :arrow_right: Painting
 
-![](/hyper.gif)
+![](/images/process.jpeg)
 
 ## Description
 
-- This is my first experiment with the [p5.js](https://p5js.org/) JavaScript library to make some art.
-- Note: responsibility is still isn't perfect, but on page refresh the elements are resizing
+- Press "s" to save the created painting.
+- Transform any picture into paintings.
+- Another experiment with the [p5.js](https://p5js.org/) JavaScript library.
+- Currently only works with hardcoded image link.
+- Note: make user interface to paste in url.
 
 ## Try it out
 
-- [Jump through space](https://cryptic-deer.github.io/p5.js-hyperdrive/)
+- [Generate art](https://cryptic-deer.github.io/painting-from-image/)

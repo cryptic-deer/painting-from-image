@@ -30,7 +30,7 @@ function setup() {
 			noFill();
 
 			strokeWeight(random(5));
-			line(0, 0, 5, 5);
+			line(0, 0, 8, 8);
 			pop();
 		}
 	}
