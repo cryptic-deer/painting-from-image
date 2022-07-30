@@ -34,26 +34,6 @@ function setup() {
 			pop();
 		}
 	}
-
-	// // Instructions
-	// push();
-	// // set position
-	// translate(img.width / 2, img.height - 125);
-	// textAlign(CENTER, CENTER);
-
-	// textFont("Abel");
-	// textSize(32);
-	// noStroke();
-	// var w = textWidth(`PRESS "S" TO SAVE`);
-
-	// rectMode(CORNER);
-	// fill("#313131");
-	// rect(30, 30, w + 30, 52, 5);
-
-	// fill("#F1F1F1");
-	// translate(50, 50);
-	// text(`Press 's' to save`, 10, 10);
-	// pop();
 }
 
 function keyPressed() {
